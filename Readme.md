@@ -1,4 +1,4 @@
-pliki yaml zawierają ojekty kubernetesa:
+pliki yaml zawierają obiekty kubernetesa:
  - namespace zad5
  - quota
  - pod worker
