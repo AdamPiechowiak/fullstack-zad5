@@ -7,7 +7,8 @@ pliki yaml zawierają ojekty kubernetesa:
 
 po utworzeniu obiektów wewnątrz poda worker uruchomiłem komendę
 
-```while [ true ]
+```
+while [ true ]
 do
    curl http://php-apache
 done;
