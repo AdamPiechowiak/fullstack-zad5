@@ -17,8 +17,8 @@ która wytwarza obciążenie na aplikacji php-apache
 
 screan zasobów w namespace zad5
 
-![alt text](https://i1.kwejk.pl/k/obrazki/2018/04/u97jG7IkwVwtAG4Z.jpg)
+![alt text](https://github.com/AdamPiechowiak/fullstack-zad5/blob/main/Screenshot2.png)
 
 screan przedstawiający obciążenie na aplikacji php-apache
 
-![alt text](https://fwcdn.pl/fpo/47/13/4713/7535946.3.jpg)
+![alt text](https://github.com/AdamPiechowiak/fullstack-zad5/blob/main/Screenshot1.png)
